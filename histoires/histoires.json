@@ -1,1 +1,43 @@
 
+{
+  "series": [
+    {
+      "id": "aventures-de-bob",
+      "titre": "Les aventures de Bob",
+      "description": "Suis Bob dans ses aventures extraordinaires.",
+      "image": ""
+    },
+    {
+      "id": "histoires-mysterieuses",
+      "titre": "Histoires mystérieuses",
+      "description": "Des histoires étranges et pleines de secrets.",
+      "image": ""
+    }
+  ],
+  "histoires": [
+    {
+      "id": "bob-001",
+      "serie": "aventures-de-bob",
+      "titre": "Le début de l'aventure",
+      "resume": "Bob découvre un mystérieux objet dans son grenier.",
+      "date": "2026-11-16",
+      "contenu": "C'était un matin comme les autres.\n\nBob se réveilla tranquillement et descendit prendre son petit-déjeuner.\n\nMais quelque chose allait changer sa journée...\n\nEn fouillant dans son grenier, il découvrit une étrange boîte."
+    },
+    {
+      "id": "bob-002",
+      "serie": "aventures-de-bob",
+      "titre": "La découverte",
+      "resume": "Bob décide de découvrir le secret de sa mystérieuse boîte.",
+      "date": "2026-11-17",
+      "contenu": "Le lendemain matin, Bob retourna dans le grenier.\n\nIl prit la boîte et essaya de l'ouvrir.\n\nAprès plusieurs minutes, un petit clic se fit entendre.\n\nLa boîte venait de s'ouvrir !"
+    },
+    {
+      "id": "mystere-001",
+      "serie": "histoires-mysterieuses",
+      "titre": "La maison abandonnée",
+      "resume": "Une vieille maison cache un secret inquiétant.",
+      "date": "2026-11-18",
+      "contenu": "Au bout du village se trouvait une vieille maison.\n\nPersonne n'osait s'en approcher.\n\nPourtant, chaque soir, une lumière apparaissait derrière les fenêtres."
+    }
+  ]
+}
