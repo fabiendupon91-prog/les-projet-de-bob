@@ -2,13 +2,13 @@
 {
   "series": [
     {
-      "id": "aventures-de-bob",
+      "id": 1,
       "titre": "Les aventures de Bob",
       "description": "Suis Bob dans ses aventures extraordinaires.",
       "image": ""
     },
     {
-      "id": "histoires-mysterieuses",
+      "id": 2,
       "titre": "Histoires mystérieuses",
       "description": "Des histoires étranges et pleines de secrets.",
       "image": ""
@@ -16,7 +16,7 @@
   ],
   "histoires": [
     {
-      "id": "bob-001",
+      "id": 3,
       "serie": "aventures-de-bob",
       "titre": "Le début de l'aventure",
       "resume": "Bob découvre un mystérieux objet dans son grenier.",
@@ -24,7 +24,7 @@
       "contenu": "C'était un matin comme les autres.\n\nBob se réveilla tranquillement et descendit prendre son petit-déjeuner.\n\nMais quelque chose allait changer sa journée...\n\nEn fouillant dans son grenier, il découvrit une étrange boîte."
     },
     {
-      "id": "bob-002",
+      "id": 4,
       "serie": "aventures-de-bob",
       "titre": "La découverte",
       "resume": "Bob décide de découvrir le secret de sa mystérieuse boîte.",
@@ -32,7 +32,7 @@
       "contenu": "Le lendemain matin, Bob retourna dans le grenier.\n\nIl prit la boîte et essaya de l'ouvrir.\n\nAprès plusieurs minutes, un petit clic se fit entendre.\n\nLa boîte venait de s'ouvrir !"
     },
     {
-      "id": "mystere-001",
+      "id": 5,
       "serie": "histoires-mysterieuses",
       "titre": "La maison abandonnée",
       "resume": "Une vieille maison cache un secret inquiétant.",
